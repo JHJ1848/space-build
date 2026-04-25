@@ -1,0 +1,26 @@
+### Assets
+ADDED=0
+CHANGED=1
+REMOVED=0
+ADDED_FILES:
+CHANGED_FILES:
+Assets\Settings\Mobile_RPAsset.asset
+REMOVED_FILES:
+
+### ProjectSettings
+ADDED=0
+CHANGED=1
+REMOVED=0
+ADDED_FILES:
+CHANGED_FILES:
+ProjectSettings\ShaderGraphSettings.asset
+REMOVED_FILES:
+
+### Packages
+ADDED=0
+CHANGED=0
+REMOVED=0
+ADDED_FILES:
+CHANGED_FILES:
+REMOVED_FILES:
+
